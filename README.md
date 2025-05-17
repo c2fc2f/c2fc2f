@@ -1,4 +1,4 @@
-### Hi, I'm Culottes
+## Hi, I'm Culottes
 
 <!--
 **culxttes/culxttes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
