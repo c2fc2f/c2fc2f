@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔐 GPG Public Key
+### 🔐 GPG Public Key
 
 <details>
   <summary>Click to view my GPG public key</summary>
