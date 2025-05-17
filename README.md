@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>Click to view my GPG public key</summary>
+```asc
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGgm4pUBEACjloCFQpBcY0Be94hTUWjUqop5NL6DJSB/X9+QYlsO2QyomHXZ
@@ -128,6 +129,7 @@ IuV6HXy250LHnafb0OrIXvYiyygw9qG0k1Yb16IcZxie3Cz1utPy9nr7fpDl9/bH
 wbW4Ydtm0eg4kiguzZOvjA==
 =k1hz
 -----END PGP PUBLIC KEY BLOCK-----
+```
 </details>
 
 **Fingerprint:** `C15C C360 2178 F45D BCD5  D07D A2A7 3EE1 93D1 6B42`
