@@ -1,6 +1,8 @@
 ## Hi, I'm Culottes
 
-I’m a panties-wearing turtle who’s head-over-shell for Rust and utterly smitten with NixOS. Slow and steady wins the race—and I always cross the finish line
+I’m a panties-wearing turtle who’s head-over-shell for Rust and utterly smitten with NixOS
+
+> **"As told in the tale of the tortoise and the hare: there’s no need to rush—slow and steady wins the race."**
 
 <!--
 **culxttes/culxttes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
