@@ -4,143 +4,18 @@ I’m a panties-wearing turtle who’s head-over-shell for Rust and utterly smit
 
 > **"As told in the tale of the tortoise and the hare: there’s no need to rush—slow and steady wins the race."**
 
-<!--
-**culxttes/culxttes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My hatred of Python
 
-Here are some ideas to get you started:
+> Python is the serpent in our modern Eden: it tempts us with its silky syntax, but its weak type system and runtime quirks make every function call feel like forbidden fruit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My mission: to stop this serpent’s spread and slay it at its root
 
-### 🔐 GPG Public Key
+![kill python](./assets/kill_python.gif)
 
-<details>
-  <summary>Click to view my GPG public key</summary>
-  
-```asc
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-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
-wbW4Ydtm0eg4kiguzZOvjA==
-=k1hz
------END PGP PUBLIC KEY BLOCK-----
-```
-
-</details>
-
-**Fingerprint:** `C15C C360 2178 F45D BCD5  D07D A2A7 3EE1 93D1 6B42`
+---
 
 ![Culottes's Github Stats](https://github-readme-stats.vercel.app/api?username=culxttes&count_private=true&show_icons=true&include_all_commits=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=culxttes&hide=Jupyter%20Notebook&layout=compact&theme=transparent)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=culxttes.culxttes)
+[![GPG Public Key](https://img.shields.io/badge/GPG-Public%20Key-purple?logo=pgp&logoColor=white)](https://github.com/culxttes.gpg)
