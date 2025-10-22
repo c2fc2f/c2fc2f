@@ -12,7 +12,7 @@ My mission: to stop this serpent’s spread and slay it at its root
 
 ---
 
-![Culottes's Github Stats](https://github-readme-stats.vercel.app/api?username=c2fc2f&count_private=true&show_icons=true&include_all_commits=true&theme=transparent)
+![c2fc2f's Github Stats](https://github-readme-stats.vercel.app/api?username=c2fc2f&count_private=true&show_icons=true&include_all_commits=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c2fc2f&hide=Jupyter%20Notebook&layout=compact&theme=transparent)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=c2fc2f.c2fc2f)
