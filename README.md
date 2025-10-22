@@ -8,8 +8,6 @@ I’m c2fc2f who’s head-over-heels for Rust and utterly smitten with NixOS
 
 My mission: to stop this serpent’s spread and slay it at its root
 
-![kill python](./assets/kill_python.gif)
-
 ---
 
 ![c2fc2f's Github Stats](https://github-readme-stats.vercel.app/api?username=c2fc2f&count_private=true&show_icons=true&include_all_commits=true&theme=transparent)
