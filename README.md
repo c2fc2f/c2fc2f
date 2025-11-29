@@ -2,12 +2,6 @@
 
 I’m c2fc2f who’s head-over-heels for Rust and utterly smitten with NixOS
 
-### My hatred of Python
-
-> Python is the serpent in our modern Eden: it tempts us with its silky syntax, but its weak type system and runtime quirks make every function call feel like forbidden fruit
-
-My mission: to stop this serpent’s spread and slay it at its root
-
 ---
 
 ![c2fc2f's Github Stats](https://github-readme-stats.vercel.app/api?username=c2fc2f&count_private=true&show_icons=true&include_all_commits=true&theme=transparent)
