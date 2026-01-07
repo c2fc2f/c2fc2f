@@ -8,4 +8,4 @@ I’m c2fc2f who’s head-over-heels for Rust and utterly smitten with NixOS
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c2fc2f&hide=Jupyter%20Notebook&layout=compact&theme=transparent)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=c2fc2f.c2fc2f)
-[![GPG Public Key](https://img.shields.io/badge/GPG-Public%20Key-purple?logo=pgp&logoColor=white)](https://github.com/culxttes.gpg)
+[![GPG Public Key](https://img.shields.io/badge/GPG-Public%20Key-purple?logo=pgp&logoColor=white)](https://github.com/c2fc2f.gpg)
