@@ -45,16 +45,13 @@ jobs:
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_skipped: Cours
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_lines_skipped: Cours
           plugin_notable: yes
           plugin_notable_from: organization
-          plugin_notable_skipped: Cours
           plugin_notable_types: commit
           plugin_traffic: yes
           plugin_traffic_skipped: Cours
